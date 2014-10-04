@@ -1,4 +1,3 @@
-	//practica3
     <?php
      $cantidad1 = $_GET['cantidad1'];
      $descripcion1 = $_GET['descripcion1'];
